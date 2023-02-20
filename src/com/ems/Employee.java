@@ -5,6 +5,8 @@ public class Employee {
 	private String sirname;
 	private String Address;
 	private Double salary;
+	public void setName(){
+	this.name=name;
 	public String getName(){
 	return name;
 	}
